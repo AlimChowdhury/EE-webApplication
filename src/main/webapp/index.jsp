@@ -2,10 +2,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>JSP - Hello World</title>
+  <title>EE-Web-Application</title>
 </head>
 <body>
-<h1><%= "Hello!!!!!" %></h1>
+<h1><%= "Hello!" %></h1>
 <br/>
 <a href="login.jsp">login</a>
 <br/>
